@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceManagementAPI", "DeviceManagementAPI.csproj", "{FC6D3CCF-E2BB-4AF1-87E8-7932AB0D8ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC6D3CCF-E2BB-4AF1-87E8-7932AB0D8ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6D3CCF-E2BB-4AF1-87E8-7932AB0D8ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6D3CCF-E2BB-4AF1-87E8-7932AB0D8ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6D3CCF-E2BB-4AF1-87E8-7932AB0D8ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A0BD8A6-9F69-4174-BA6A-4819A1DCFCB5}
+	EndGlobalSection
+EndGlobal
